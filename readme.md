@@ -1,6 +1,6 @@
 # Solution for mozdevz challenge from 2016
 
-I was still a student when I did this, so it probably has lots of mistakes and if contributions are welcome. Nevertheless, it was lots of fun and it works.
+I was still a student when I did this, so it probably has many naive mistakes and contributions are welcome. Nevertheless, it was lots of fun and it works.
 
 ---
 
